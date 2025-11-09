@@ -1,6 +1,10 @@
 # Data
 data/
 
+# DS Store
+.DS_Store
+# Task 1 docx
+task1.docx
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
